@@ -48,7 +48,7 @@ GET /api/users/all → Get all users (admin-only, protected)
 
 Clone the repo
 
-git clone https://github.com/your-username/auth-api.git
+git clone https://github.com/Farhan-09/Authuser.git
 cd auth-api
 
 
